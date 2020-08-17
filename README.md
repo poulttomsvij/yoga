@@ -42,4 +42,5 @@ Yoga is a five-millennia-old practice that has changed over time. Modern yoga fo
 Ancient yoga was less about fitness and more about mental focus and expanding spiritual energy. The Yoga Sutra, now considered to be the definitive guidebook to practicing yoga, came into the practice 2000 years ago.
 
 There are many different types of yoga depending on what people want from it and a person’s current level of physical fitness. However, some people choose to replace conventional treatment for conditions with yoga and this can prevent a person from receiving the necessary care.
+
 ![Branching](gmfgfgdf.jpg)
